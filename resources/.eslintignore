@@ -1,0 +1,4 @@
+views/build/
+src/
+*.js
+*.jsx
